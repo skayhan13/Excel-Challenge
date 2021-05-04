@@ -14,3 +14,8 @@ o  One of the limitations of this dataset is that it is incomplete with regards 
 3.  What are some other possible tables and/or graphs that we could create?
 o  A map chart could be created to help show what preferences each country had towards the different categories of campaigns.
 o  A histogram could help illustrate if there is a correlation between percent funded and if the campaign was successful or failed. The four states would be the x-axis and the average percent funded could be the y-axis.
+
+![Image](/Images/image.png)
+![Image 2](/Images/image(2).png)
+![Image 3](/Images/image(3).png)
+
