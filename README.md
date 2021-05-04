@@ -16,6 +16,6 @@ o  A map chart could be created to help show what preferences each country had t
 o  A histogram could help illustrate if there is a correlation between percent funded and if the campaign was successful or failed. The four states would be the x-axis and the average percent funded could be the y-axis.
 
 ![Image](/Images/image.png)
-![Image 2](/Images/image (2).png)
-![Image 3](/Images/image (3).png)
+![Pivot](/Images/Pivot.png)
+![Line](/Images/Line.png)
 
